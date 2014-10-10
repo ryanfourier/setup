@@ -8,6 +8,7 @@ sudo apt-get install kile
 sudo apt-get install ubuntu-restricted-extras
 sudo apt-get install keepass2
 sudo apt-get install jabref
+sudo apt-get install calibre
 
 get chrome
 get insync
