@@ -11,6 +11,7 @@ sudo apt-get install jabref
 
 get chrome
 get insync
+make the other drives writable, and figure out how to use them.
 
 
 
