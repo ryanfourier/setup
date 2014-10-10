@@ -2,6 +2,16 @@
 # Simple setup.sh for configuring Ubuntu 12.04 LTS EC2 instance
 # for headless setup. 
 
+# ryan's stuff
+sudo apt-get install scilab
+sudo apt-get install kile
+sudo apt-get install ubuntu-restricted-extras
+
+get chrome
+get insync
+
+
+
 # Install nvm: node-version manager
 # https://github.com/creationix/nvm
 sudo apt-get install -y git
