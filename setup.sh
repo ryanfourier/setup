@@ -6,6 +6,8 @@
 sudo apt-get install scilab
 sudo apt-get install kile
 sudo apt-get install ubuntu-restricted-extras
+sudo apt-get install keepass2
+sudo apt-get install jabref
 
 get chrome
 get insync
